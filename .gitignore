@@ -1,0 +1,31 @@
+# .NET Core build output
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# .NET Core configuration files
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# .NET Core test results
+TestResults/
+
+# .NET Core runtime store
+store/
+
+# Other generated files
+*.user
+*.vspscc
+*.vssscc
+*.suo
+*.cache
+*.log
+*.npmrc
+*.lock
+
+# Other miscellaneous files
+Thumbs.db
+desktop.ini
